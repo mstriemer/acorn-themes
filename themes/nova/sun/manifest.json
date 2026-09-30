@@ -41,7 +41,7 @@
     "images": {
       "additional_backgrounds": [
         {
-          "linear-gradient": "90deg, #F9F5E6 0%, #FDE8B5 60%, #FBCC77 100%"
+          "linear-gradient": "135deg, #F9F5E6 0%, #FDE8B5 60%, #FBCC77 100%"
         }
       ]
     },
@@ -84,6 +84,22 @@
       "button_background_hover": "#5F3100",
       "button_background_active": "#854800",
       "ntp_background": "#270F00"
+    },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "135deg, #B26100 0%, #854800 60%, #5F3100 100%"
+        }
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }
